@@ -2,4 +2,12 @@
 
 ## Description 
 
-The goal of this project is to track teh salary input of employees. You will be asked to to input first name, last name, and salary and you will be able to add any number of emplyees. They will be saved onto the tracker in order for you to view them in order of input. 
+The Employee Payroll Tracker is a web application designed to help payroll managers easily manage and track employee payroll data. This tool allows users to add employee details such as first name, last name, and salary, and provides a clear overview of all employees. The data is displayed alphabetically by last name, and the console shows computed and aggregated payroll data to assist in company budgeting.
+
+## Features
+
+- Add employee details (first name, last name, salary)
+- Prompt to continue adding employees or cancel
+- Display employee data sorted alphabetically by last name
+- Display computed and aggregated payroll data in the console
+
